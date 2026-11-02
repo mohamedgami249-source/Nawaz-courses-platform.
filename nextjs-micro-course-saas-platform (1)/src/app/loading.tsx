@@ -1,0 +1,1 @@
+export default function Loading() { return <main className="container page-loading"><div className="skeleton skeleton-line medium"/><div className="skeleton skeleton-line"/><div className="skeleton skeleton-image"/></main>; }
